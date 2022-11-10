@@ -1,0 +1,12 @@
+.App {
+  justify-content: center;
+}
+
+body, .card {
+  background-color: darkblue !important;
+}
+
+.card{
+  border-width: 0ch !important;
+}
+
